@@ -1,0 +1,145 @@
+{
+  "data": {
+    "menu": [
+      {
+        "name": "home",
+        "id": "1"
+      },
+      {
+        "name": "mobile",
+        "id": "2"
+      },
+      {
+        "name": "hot deals",
+        "id": "3"
+      },
+      {
+        "name": "about",
+        "id": "4"
+      },
+      {
+        "name": "contact",
+        "id": "5"
+      }
+    ],
+    "slider": [
+      {
+        "heading": "moto g",
+        "subHeading": "net gen mobile",
+        "description": "The latest Moto X series phone,the Moto X4, has been launch exclusively",
+        "buttonText": "order now"
+      },
+      {
+        "heading": "iPhone 6s",
+        "subHeading": "net gen mobile",
+        "description": "iOS 12 with Group FaceTime, ScreenTime and even faster performance",
+        "buttonText": "order now"
+      },
+      {
+        "heading": "Nokia",
+        "subHeading": "net gen mobile",
+        "description": "Nokia is a global leader in innovations such as mobile networks",
+        "buttonText": "order now"
+      },
+      {
+        "heading": "Samsung",
+        "subHeading": "net gen mobile",
+        "description": "Wide range of home electronics with cutting-edge technology",
+        "buttonText": "order now"
+      }
+    ],
+    "newArrival": {
+      "whiteHalf": "new",
+      "blackHalf": "arrivals",
+      "description": "Mobile phones from the top brands are available at the most competitive prices",
+      "viewAll":"laod all",
+      "items": [
+        
+        {
+          "name":"iphone",
+          "id":"1",
+          "btn": ""
+        },
+         {
+          "name":"moto g",
+          "id":"2",
+          "btn": ""
+        },
+         {
+          "name":"nokia",
+          "id":"3",
+          "btn": ""
+        },
+        {
+          "name":"samsung",
+          "id":"4",
+          "btn": "notify me"
+        },
+        {
+          "name":"realme",
+          "id":"5",
+          "btn": ""
+        },
+         {
+          "name":"Karbon",
+          "id":"6",
+          "btn": ""
+        },
+         {
+          "name":"iphone 6s",
+          "id":"7",
+          "btn": ""
+        },
+        {
+          "name":"lg",
+          "id":"8",
+          "btn": "notify me"
+        }
+        ]
+    },
+    "bestSales": {
+            "whiteHalf": "best",
+      "blackHalf": "sales",
+      "description": "Find the best sellers collections",
+      "bestSale":[
+        {
+          "name": "iPhone 6s",
+          "lbl": "Add to cart",
+          "id": "1"
+        },
+        {
+          "name": "iPhone 6s",
+          "lbl": "Add to cart",
+          "id": "2"
+        },
+        {
+          "name": "iPhone 6s",
+          "lbl": "Add to cart",
+          "id": "3"
+        }
+        ]
+    },
+    "userReviews": {
+      "whiteHalf": "user",
+      "blackHalf": "reviews",
+      "description": "Find the best sellers collections",
+      "userReview":[
+        {
+        "description":"Very good performance and good look and feel with stylish look"
+      },
+      {
+        "description":"Very good performance and good look and feel with stylish look"
+      },
+      {
+        "description":"Very good performance and good look and feel with stylish look"
+      }
+        ]
+    },
+    "subscribe":{
+      "heading": "newsletter",
+      "description":"subscribe now to get all news and special offers",
+      "emailText":"type your email here",
+      "btn":"subscribe"
+    }
+  }
+}
